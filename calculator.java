@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Its amazing
 public class calculator {
 
     public static void main(String[] args) {
